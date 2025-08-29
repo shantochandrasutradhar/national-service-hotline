@@ -10,8 +10,3 @@ const navHeartCount = document.getElementById('navHeartCount');
  });
 
 
-
-
- document.getElementById('btn-1').addEventListener('click', function(){
-    alert('National Service Helpline   Call - 999')
- })
