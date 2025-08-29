@@ -6,5 +6,12 @@ const navHeartCount = document.getElementById('navHeartCount');
     button.addEventListener('click',() => {
         totalclick++;
         navHeartCount.textContent = totalclick;
-    })
+    });
+ });
+
+
+
+
+ document.getElementById('btn-1').addEventListener('click', function(){
+    alert('National Service Helpline   Call - 999')
  })
